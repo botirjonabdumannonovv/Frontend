@@ -49,4 +49,14 @@
   </div>
 </template>
 <script setup lang="ts">
+
+import type { Location } from "@/modules/locations/models/Location";
+
+const props = defineProps({
+  location: {
+    type:  Object as () => Location,
+    required: true
+  }
+});
+
 </script>
