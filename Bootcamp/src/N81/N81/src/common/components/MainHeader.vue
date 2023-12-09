@@ -11,8 +11,7 @@
     <!-- Profile menu -->
 
     <!-- Locations filter -->
-fdgafg
-    
+
     <!-- Bottom border -->
 
     <div class="absolute border-b-2 border-borderSecondary"></div>
